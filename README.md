@@ -15,6 +15,7 @@ I am a PhD candidate at the State Key Laboratory of Information Engineering in S
 - This is my ResearchGate [ResearchGate](https://www.researchgate.net/profile/Yujia-Chen-28)
 
 **Publications**:
+
 ⚡First or corresponding author
 +  [1] `Yujia Chen`, Hao Cui, Guo Zhang, Xue Li, Zhigang Xie, Haifeng Li, Deren Li. SparseFormer: A Credible Dual-CNN Expert Guided Transformer for Remote Sensing Image Segmentation with Sparse Point Annotation[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. ( In progress ) [Paper link](https://ieeexplore.ieee.org/document/10817638).
 +  [2] `Yujia Chen`, Guo Zhang, Hao Cui, Xue Li, Shasha Hou, Jinhao Ma, Zhijiang Li, Haifeng Li, Huabin Wang. A novel weakly supervised semantic segmentation framework to improve the resolution of land cover product[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 196, 73-92. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003422).
