@@ -31,6 +31,11 @@ I am a PhD candidate at the State Key Laboratory of Information Engineering in S
 +  [4]  Shasha Hou, Guo Zhang, Hao Cui, Xue Li, `Yujia Chen`, Haifeng Li, Huabin Wang, Xiaolong Ma. Stable Prototype-Guided Single-Temporal Supervised Learning for Change Detection and Extraction of Building[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61, 1-22. [Paper link](https://ieeexplore.ieee.org/document/10189880).
 +  [5]  Weiling Liu, Hao Cui, Yonghua Jiang, Guo Zhang, Xinghua Li, Haifeng Li, `Yujia Chen`, Jun Yang. DecRecNet: A Decoupling-Reconstruction Network for Restoring the Missing Information of Optical Remote Sensing Images[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023, 16, 9777-9801. [Paper link](https://ieeexplore.ieee.org/document/10189880).
 
+🌱 Journal Reviewer:
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing publication information,
+- Earth Science Informatics
+- Sensing and Imaging
+
 <!--
 **Yujia73/Yujia73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
