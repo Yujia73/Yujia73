@@ -32,7 +32,7 @@ I am a PhD candidate at the State Key Laboratory of Information Engineering in S
 +  [5]  Weiling Liu, Hao Cui, Yonghua Jiang, Guo Zhang, Xinghua Li, Haifeng Li, `Yujia Chen`, Jun Yang. DecRecNet: A Decoupling-Reconstruction Network for Restoring the Missing Information of Optical Remote Sensing Images[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023, 16, 9777-9801. [Paper link](https://ieeexplore.ieee.org/document/10189880).
 
 🌱 Journal Reviewer:
-- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing publication information,
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,
 - Earth Science Informatics
 - Sensing and Imaging
 
