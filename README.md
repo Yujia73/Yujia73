@@ -12,7 +12,7 @@ I am a PhD candidate at the State Key Laboratory of Information Engineering in S
 📫 **How to reach me**:
 - ❗E-mail: chenyujia111@outlook.com (Primary), yujiachen@whu.edu.cn
 
-- This is my ResearchGate [ResearchGate](https://www.researchgate.net/profile/Yujia-Chen-28)
+- This is my ResearchGate [link](https://www.researchgate.net/profile/Yujia-Chen-28)
 
 **Publications**:
 
